@@ -60,8 +60,14 @@
 	border-radius: 5px;
 }
 
+.easing-style-label:hover {
+	background-color: orange;
+	cursor: pointer;
+}
+
 .selected-content-data {
 	text-align: center;
+
 }
 
 @media only screen and (max-width: 600px) {
